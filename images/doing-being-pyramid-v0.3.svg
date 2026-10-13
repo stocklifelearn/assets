@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" font-family="'Kaiti SC','STKaiti','KaiTi','Noto Serif CJK SC','Noto Sans CJK SC','Chalkboard SE',serif">
+  <defs>
+    <filter id="wobble" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="7" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="6"/>
+    </filter>
+    <filter id="wobble2" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" seed="11" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="4"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="816" height="1056" fill="#fdfcf8"/>
+
+  <!-- 标题 -->
+  <text x="408" y="58" text-anchor="middle" font-size="34" letter-spacing="6" fill="#222">做事 × 做人</text>
+  <text x="408" y="90" text-anchor="middle" font-size="15" fill="#444" font-family="'Caveat','Chalkboard SE','Segoe Print',cursive">需求层次金字塔 · The Doing–Being Pyramid</text>
+  <text x="408" y="112" text-anchor="middle" font-size="12" fill="#888">马斯洛 × NLP 逻辑层次 × 弗洛伊德 · Maslow × NLP × Freud</text>
+
+  <!-- 金字塔层（上→下 L5…L1） -->
+  <g filter="url(#wobble)" stroke="#2b2b2b" stroke-width="2.5" stroke-linejoin="round">
+    <polygon points="408,240 408,240 474,364 342,364" fill="#fffbd9"/>
+    <polygon points="342,364 474,364 540,488 276,488" fill="#fff6b8"/>
+    <polygon points="276,488 540,488 606,612 210,612" fill="#ffe9a8"/>
+    <polygon points="210,612 606,612 672,736 144,736" fill="#ffdd9e"/>
+    <polygon points="144,736 672,736 738,860 78,860" fill="#ffc89e"/>
+  </g>
+
+  <!-- 层内竖向分隔线（L1–L3） -->
+  <g filter="url(#wobble2)" stroke="#2b2b2b" stroke-width="2">
+    <line x1="408" y1="488" x2="408" y2="612"/>
+    <line x1="408" y1="612" x2="408" y2="736"/>
+    <line x1="408" y1="736" x2="408" y2="860"/>
+  </g>
+
+  <!-- 自由（成长）/ 欲望（本能）分界线 = 缺失/成长需求分界 -->
+  <g filter="url(#wobble2)" stroke="#8a8a8a" stroke-width="2" stroke-dasharray="10 8">
+    <line x1="200" y1="612" x2="616" y2="612"/>
+  </g>
+  <text x="408" y="604" text-anchor="middle" font-size="10.5" fill="#999">▲ 自由（成长）· Growth needs</text>
+  <text x="408" y="630" text-anchor="middle" font-size="10.5" fill="#999">欲望（本能）· Deficiency needs ▼</text>
+
+  <!-- L3：创造 / 体验 -->
+  <text x="326" y="522" text-anchor="middle" font-size="10.5" fill="#777">做事 · Doing</text>
+  <text x="326" y="550" text-anchor="middle" font-size="20" fill="#222">创造</text>
+  <text x="326" y="572" text-anchor="middle" font-size="12.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Creativity</text>
+  <text x="490" y="522" text-anchor="middle" font-size="10.5" fill="#777">做人 · Being</text>
+  <text x="490" y="550" text-anchor="middle" font-size="20" fill="#222">体验</text>
+  <text x="490" y="572" text-anchor="middle" font-size="12.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Experience</text>
+
+  <!-- L2：求安 / 求乐 -->
+  <text x="293" y="648" text-anchor="middle" font-size="10.5" fill="#777">做事 · Doing</text>
+  <text x="293" y="674" text-anchor="middle" font-size="20" fill="#222">求安</text>
+  <text x="293" y="696" text-anchor="middle" font-size="12.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Seek safety</text>
+  <text x="523" y="648" text-anchor="middle" font-size="10.5" fill="#777">做人 · Being</text>
+  <text x="523" y="674" text-anchor="middle" font-size="20" fill="#222">求乐</text>
+  <text x="523" y="696" text-anchor="middle" font-size="12.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Seek pleasure</text>
+
+  <!-- L1：求利 / 求名 -->
+  <text x="260" y="770" text-anchor="middle" font-size="10.5" fill="#777">做事 · Doing</text>
+  <text x="260" y="796" text-anchor="middle" font-size="20" fill="#222">求利</text>
+  <text x="260" y="818" text-anchor="middle" font-size="12.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Seek gain</text>
+  <text x="556" y="770" text-anchor="middle" font-size="10.5" fill="#777">做人 · Being</text>
+  <text x="556" y="796" text-anchor="middle" font-size="20" fill="#222">求名</text>
+  <text x="556" y="818" text-anchor="middle" font-size="12.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Seek recognition</text>
+
+  <!-- L5：成就 / 服务（外置） -->
+  <g filter="url(#wobble2)" stroke="#555" stroke-width="2">
+    <line x1="309" y1="304" x2="375" y2="304"/>
+    <line x1="441" y1="304" x2="501" y2="304"/>
+  </g>
+  <text x="290" y="284" text-anchor="middle" font-size="10.5" fill="#777">做事 · Doing</text>
+  <text x="290" y="308" text-anchor="middle" font-size="19" fill="#222">成就</text>
+  <text x="290" y="328" text-anchor="middle" font-size="12" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Achievement</text>
+  <text x="520" y="284" text-anchor="middle" font-size="10.5" fill="#777">做人 · Being</text>
+  <text x="520" y="308" text-anchor="middle" font-size="19" fill="#222">服务</text>
+  <text x="520" y="328" text-anchor="middle" font-size="12" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Service</text>
+
+  <!-- L4：责任 / 修行（外置） -->
+  <g filter="url(#wobble2)" stroke="#555" stroke-width="2">
+    <line x1="269" y1="428" x2="309" y2="428"/>
+    <line x1="507" y1="428" x2="576" y2="428"/>
+  </g>
+  <text x="250" y="408" text-anchor="middle" font-size="10.5" fill="#777">做事 · Doing</text>
+  <text x="250" y="432" text-anchor="middle" font-size="18" fill="#222">责任</text>
+  <text x="250" y="451" text-anchor="middle" font-size="11.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Responsibility</text>
+  <text x="600" y="408" text-anchor="middle" font-size="10.5" fill="#777">做人 · Being</text>
+  <text x="600" y="432" text-anchor="middle" font-size="18" fill="#222">修行</text>
+  <text x="600" y="451" text-anchor="middle" font-size="11.5" fill="#555" font-family="'Caveat','Chalkboard SE',cursive">Self-cultivation</text>
+
+  <!-- 左侧：弗洛伊德 + 马斯洛 -->
+  <text x="8" y="258" font-size="10" fill="#999">▲ 层层向上 · upward</text>
+  <g font-size="12" fill="#333" font-weight="bold">
+    <text x="8" y="292">超我</text>
+    <text x="8" y="416">自我</text>
+    <text x="8" y="540">自我</text>
+    <text x="8" y="664">本我</text>
+    <text x="8" y="788">本我</text>
+  </g>
+  <g font-size="9.5" fill="#777" font-family="'Caveat','Chalkboard SE',cursive">
+    <text x="8" y="305">Superego</text>
+    <text x="8" y="429">Ego</text>
+    <text x="8" y="553">Ego</text>
+    <text x="8" y="677">Id</text>
+    <text x="8" y="801">Id</text>
+  </g>
+  <g font-size="11" fill="#555">
+    <text x="52" y="292">自我超越</text>
+    <text x="52" y="416">自我实现</text>
+    <text x="52" y="540">尊重需求</text>
+    <text x="52" y="664">安全与归属</text>
+    <text x="52" y="788">生理需求</text>
+  </g>
+  <g font-size="8.5" fill="#999" font-family="'Caveat','Chalkboard SE',cursive">
+    <text x="52" y="304">Self-transcendence</text>
+    <text x="52" y="428">Self-actualization</text>
+    <text x="52" y="552">Esteem</text>
+    <text x="52" y="676">Safety &amp; Belonging</text>
+    <text x="52" y="800">Physiological</text>
+  </g>
+
+  <!-- 右侧：马斯洛+NLP 标签 -->
+  <g font-size="11" fill="#333">
+    <text x="648" y="296">（超越）</text>
+    <text x="648" y="420">（角色）</text>
+    <text x="648" y="544">（知行，自治，能力）</text>
+    <text x="648" y="668">（归属，BVR）</text>
+    <text x="648" y="792">（生存）</text>
+  </g>
+  <g font-size="9.5" fill="#777" font-family="'Caveat','Chalkboard SE',cursive">
+    <text x="648" y="310">Transcendence</text>
+    <text x="648" y="434">Role</text>
+    <text x="810" y="558" text-anchor="end">Knowing-doing · Autonomy · Capability</text>
+    <text x="648" y="682">Belonging · BVR</text>
+    <text x="648" y="806">Survival</text>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="408" y="1000" text-anchor="middle" font-size="11" fill="#999">vtian-agent · 关键概念图 v0.3 · 2026-10-13</text>
+  <text x="408" y="1018" text-anchor="middle" font-size="10" fill="#bbb">BVR = 信念 Beliefs · 价值观 Values · 原则 Rules ｜ 简笔画风格 · letter 可打印</text>
+</svg>
