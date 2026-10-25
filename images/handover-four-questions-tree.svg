@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="720" viewBox="0 0 800 720">
+  <defs>
+    <filter id="rough" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.5"/>
+    </filter>
+    <style>
+      .cn { font-family: "Kaiti SC", "STKaiti", "楷体", "Noto Sans CJK SC", serif; }
+      .en { font-family: "Caveat", "Segoe Print", cursive; }
+    </style>
+  </defs>
+  <rect width="800" height="720" fill="#ffffff"/>
+  <text x="400" y="52" text-anchor="middle" font-size="30" class="cn" fill="#333333">交接四问</text>
+  <text x="400" y="82" text-anchor="middle" font-size="18" class="en" fill="#888888">Handover Four Questions</text>
+
+  <g filter="url(#rough)" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round">
+    <rect x="270" y="108" width="260" height="56" rx="12" fill="#ffd6d6"/>
+    <rect x="15" y="204" width="170" height="52" rx="12" fill="#ffd6d6"/>
+    <rect x="215" y="204" width="170" height="52" rx="12" fill="#ffe9b8"/>
+    <rect x="415" y="204" width="170" height="52" rx="12" fill="#cdeac0"/>
+    <rect x="615" y="204" width="170" height="52" rx="12" fill="#b8d4e3"/>
+    <rect x="15" y="276" width="170" height="72" rx="10" fill="#ffffff"/>
+    <rect x="215" y="276" width="170" height="72" rx="10" fill="#ffffff"/>
+    <rect x="415" y="276" width="170" height="72" rx="10" fill="#ffffff"/>
+    <rect x="615" y="276" width="170" height="72" rx="10" fill="#ffffff"/>
+    <rect x="15" y="418" width="380" height="110" rx="12" fill="#cdeac0"/>
+    <rect x="405" y="418" width="380" height="110" rx="12" fill="#b8d4e3"/>
+    <rect x="15" y="588" width="150" height="50" rx="10" fill="#ffffff"/>
+    <rect x="195" y="588" width="205" height="50" rx="10" fill="#ffffff"/>
+    <rect x="425" y="588" width="140" height="50" rx="10" fill="#ffffff"/>
+    <rect x="595" y="588" width="190" height="50" rx="10" fill="#ffd6d6"/>
+  </g>
+
+  <g stroke="#9aa0a6" stroke-width="1.5" fill="none">
+    <line x1="400" y1="164" x2="400" y2="184"/>
+    <line x1="100" y1="184" x2="700" y2="184"/>
+    <line x1="100" y1="184" x2="100" y2="204"/>
+    <line x1="300" y1="184" x2="300" y2="204"/>
+    <line x1="500" y1="184" x2="500" y2="204"/>
+    <line x1="700" y1="184" x2="700" y2="204"/>
+    <line x1="100" y1="256" x2="100" y2="276"/>
+    <line x1="300" y1="256" x2="300" y2="276"/>
+    <line x1="500" y1="256" x2="500" y2="276"/>
+    <line x1="700" y1="256" x2="700" y2="276"/>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="400" y="131" font-size="19" class="cn" fill="#333333">结论：开会前先过一遍四问</text>
+    <text x="400" y="149" font-size="12" class="en" fill="#666666">Ask four questions first</text>
+
+    <text x="100" y="229" font-size="20" class="cn" fill="#333333">信息源</text>
+    <text x="100" y="248" font-size="12" class="en" fill="#666666">Source</text>
+    <text x="300" y="229" font-size="20" class="cn" fill="#333333">决策链</text>
+    <text x="300" y="248" font-size="12" class="en" fill="#666666">Chain</text>
+    <text x="500" y="229" font-size="20" class="cn" fill="#333333">边界</text>
+    <text x="500" y="248" font-size="12" class="en" fill="#666666">Boundary</text>
+    <text x="700" y="229" font-size="20" class="cn" fill="#333333">情绪</text>
+    <text x="700" y="248" font-size="12" class="en" fill="#666666">Emotion</text>
+
+    <text x="100" y="304" font-size="15" class="cn" fill="#333333">没有系统观的人</text>
+    <text x="100" y="326" font-size="15" class="cn" fill="#333333">= 信息源，不谈判</text>
+    <text x="300" y="304" font-size="15" class="cn" fill="#333333">谁能拍板？</text>
+    <text x="300" y="326" font-size="15" class="cn" fill="#333333">谁能约束他？</text>
+    <text x="500" y="304" font-size="15" class="cn" fill="#333333">只接系统里</text>
+    <text x="500" y="326" font-size="15" class="cn" fill="#333333">能跑起来的部分</text>
+    <text x="700" y="304" font-size="15" class="cn" fill="#333333">边界一清晰</text>
+    <text x="700" y="326" font-size="15" class="cn" fill="#333333">情绪就下来</text>
+
+    <text x="400" y="388" font-size="16" class="cn" fill="#666666">顺序：信息源 → 决策链 → 边界 → 情绪，先走完四问，再动手</text>
+
+    <text x="205" y="446" font-size="16" class="cn" fill="#333333">例子 · Example</text>
+    <text x="205" y="474" font-size="15" class="cn" fill="#333333">原负责人想直接移交旧系统服务，</text>
+    <text x="205" y="498" font-size="15" class="cn" fill="#333333">只接装进自己系统后能跑的部分。</text>
+    <text x="595" y="446" font-size="16" class="cn" fill="#333333">边界 · Boundary</text>
+    <text x="595" y="474" font-size="15" class="cn" fill="#333333">对方有系统观时，直接谈判，</text>
+    <text x="595" y="498" font-size="15" class="cn" fill="#333333">不用四问。</text>
+
+    <text x="400" y="568" font-size="15" class="cn" fill="#888888">系统位置 · C4 定位</text>
+    <text x="90" y="619" font-size="15" class="en" fill="#333333">vtian-agent</text>
+    <text x="180" y="619" font-size="16" class="cn" fill="#888888">→</text>
+    <text x="297" y="619" font-size="14" class="cn" fill="#333333">法层 · _2-Schemas</text>
+    <text x="412" y="619" font-size="16" class="cn" fill="#888888">→</text>
+    <text x="495" y="619" font-size="15" class="cn" fill="#333333">关系与影响</text>
+    <text x="580" y="619" font-size="16" class="cn" fill="#888888">→</text>
+    <text x="690" y="619" font-size="15" class="cn" fill="#333333">交接四问</text>
+
+    <text x="400" y="688" font-size="13" class="cn" fill="#aaaaaa">来源：_2-Schemas/Relationship-Influence/handover-four-questions.md</text>
+  </g>
+</svg>
