@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1900" viewBox="0 0 900 1900">
+<rect width="900" height="2150" fill="#ffffff"/>
+<text x="450" y="70" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="bold" fill="#222222">十二因缘完整版</text>
+<text x="450" y="108" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#666666">Twelve Links · Full Version</text>
+<text x="450" y="145" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">★ = 简化版已有的骨架 · 其余是完整版加进去的</text>
+<text x="450" y="175" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">先记 ★，再加其余，就知道结构</text>
+
+<g>
+<rect x="40" y="200" width="820" height="110" rx="12" fill="#fdf6ec" stroke="#d9a441" stroke-width="2"/>
+<text x="70" y="245" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#333333">★ 1 无明 Ignorance — 不知无常、无我</text>
+<text x="70" y="280" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Past cause · 过去因</text>
+</g>
+<text x="450" y="335" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#999999">↓ 在无明和受之间，加下面 5 个 ↓</text>
+<g>
+<rect x="40" y="345" width="820" height="95" rx="12" fill="#f7f7f7" stroke="#cccccc" stroke-width="1.5"/>
+<text x="70" y="385" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#333333">2 行 Formations — 由无明起的造作、业</text>
+<text x="70" y="415" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Past cause · 过去因</text>
+</g>
+<g>
+<rect x="40" y="455" width="820" height="95" rx="12" fill="#f7f7f7" stroke="#cccccc" stroke-width="1.5"/>
+<text x="70" y="495" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#333333">3 识 Consciousness — 意识流</text>
+<text x="70" y="525" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present result · 现在果</text>
+</g>
+<g>
+<rect x="40" y="565" width="820" height="95" rx="12" fill="#f7f7f7" stroke="#cccccc" stroke-width="1.5"/>
+<text x="70" y="605" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#333333">4 名色 Name-form — 心身个体形成</text>
+<text x="70" y="635" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present result · 现在果</text>
+</g>
+<g>
+<rect x="40" y="675" width="820" height="95" rx="12" fill="#f7f7f7" stroke="#cccccc" stroke-width="1.5"/>
+<text x="70" y="715" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#333333">5 六入 Six senses — 眼耳鼻舌身意</text>
+<text x="70" y="745" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present result · 现在果</text>
+</g>
+<g>
+<rect x="40" y="785" width="820" height="95" rx="12" fill="#f7f7f7" stroke="#cccccc" stroke-width="1.5"/>
+<text x="70" y="825" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#333333">6 触 Contact — 根、境、识相遇</text>
+<text x="70" y="855" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present result · 现在果</text>
+</g>
+<g>
+<rect x="40" y="895" width="820" height="110" rx="12" fill="#fdf6ec" stroke="#d9a441" stroke-width="2"/>
+<text x="70" y="940" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#333333">★ 7 受 Feeling — 苦乐感受</text>
+<text x="70" y="975" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present result · 现在果 · 断点在这里之后</text>
+</g>
+<g>
+<rect x="40" y="1020" width="820" height="110" rx="12" fill="#fdf6ec" stroke="#d9a441" stroke-width="2"/>
+<text x="70" y="1065" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#333333">★ 8 爱 Craving — 渴望或抗拒</text>
+<text x="70" y="1100" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present cause · 现在因</text>
+</g>
+<g>
+<rect x="40" y="1145" width="820" height="110" rx="12" fill="#fdf6ec" stroke="#d9a441" stroke-width="2"/>
+<text x="70" y="1190" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#333333">★ 9 取 Grasping — 执著、抓紧</text>
+<text x="70" y="1225" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present cause · 现在因 · 断点在这里之后</text>
+</g>
+<text x="450" y="1275" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#999999">↓ 在取和老死之间，加下面 2 个 ↓</text>
+<g>
+<rect x="40" y="1305" width="820" height="95" rx="12" fill="#f7f7f7" stroke="#cccccc" stroke-width="1.5"/>
+<text x="70" y="1345" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#333333">10 有 Becoming — 形成存在状态</text>
+<text x="70" y="1375" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Present cause · 现在因</text>
+</g>
+<g>
+<rect x="40" y="1415" width="820" height="95" rx="12" fill="#f7f7f7" stroke="#cccccc" stroke-width="1.5"/>
+<text x="70" y="1455" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#333333">11 生 Birth — 新的生命开始</text>
+<text x="70" y="1485" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Future result · 未来果</text>
+</g>
+<g>
+<rect x="40" y="1525" width="820" height="110" rx="12" fill="#fdf6ec" stroke="#d9a441" stroke-width="2"/>
+<text x="70" y="1570" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#333333">★ 12 老死 Aging and death — 含忧悲苦恼</text>
+<text x="70" y="1605" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Future result · 未来果 · 简化版里的“苦”就是这里</text>
+</g>
+
+<text x="450" y="1680" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#444444">成环：老死 → 又回到无明，所以是环，不是直线</text>
+<text x="450" y="1715" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Aging and death → back to ignorance, a ring, not a line</text>
+<text x="450" y="1760" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#444444">三段记法：过去因（1-2）→ 现在果（3-7）</text>
+<text x="450" y="1795" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#444444">→ 现在因（8-10）→ 未来果（11-12）</text>
+<text x="450" y="1840" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#888888">完整链出自 buddhist.md · 2026-11-01 · 信仰专区</text>
+</svg>

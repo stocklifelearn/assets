@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="2050" viewBox="0 0 900 2050">
+<rect width="900" height="2050" fill="#ffffff"/>
+<text x="450" y="70" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="bold" fill="#222222">佛学 × 现代科学对应</text>
+<text x="450" y="108" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#666666">Buddhism × Modern Science Mapping · 中英文对照</text>
+<text x="450" y="145" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">对应是借用，不是等同 · 跨生死的部分现代科学不讲</text>
+
+<g>
+<rect x="40" y="175" width="820" height="300" rx="16" fill="#eef7ee" stroke="#c3dfc3" stroke-width="1.5"/>
+<text x="70" y="220" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#2e6b2e">意识分层 · Consciousness layers</text>
+<text x="70" y="260" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">第六意识 ≈ 意识 Conscious awareness</text>
+<text x="70" y="295" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">末那识 ≈ 自我叙述、默认模式网络</text>
+<text x="70" y="325" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Manas ≈ self-narrative, default mode network</text>
+<text x="70" y="365" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">阿赖耶识 ≈ 长期隐性记忆仓库</text>
+<text x="70" y="395" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Alaya ≈ long-term implicit memory store</text>
+<text x="70" y="435" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">前意识：稍一注意就能想起来的 · Preconscious</text>
+</g>
+
+<g>
+<rect x="40" y="495" width="820" height="300" rx="16" fill="#eef4fb" stroke="#c3d6ea" stroke-width="1.5"/>
+<text x="70" y="540" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#2f5d8a">记忆 · Memory</text>
+<text x="70" y="580" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">显性记忆 Explicit：经历、知识，能说出来</text>
+<text x="70" y="610" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Episodic, semantic — can be stated</text>
+<text x="70" y="650" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">隐性记忆 Implicit：程序、情绪、启动效应</text>
+<text x="70" y="680" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Procedural, emotional, priming — cannot be stated</text>
+<text x="70" y="720" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">种子、习气 ≈ 隐性记忆 Seeds, habits ≈ implicit</text>
+</g>
+
+<g>
+<rect x="40" y="815" width="820" height="320" rx="16" fill="#fdf6ec" stroke="#e8dcc3" stroke-width="1.5"/>
+<text x="70" y="860" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#7a5a1f">快与慢 · Fast and slow</text>
+<text x="70" y="900" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">系统1 System 1：快、直觉、情绪先行</text>
+<text x="70" y="930" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">受 → 爱的快反应 ≈ 系统1</text>
+<text x="70" y="970" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">系统2 System 2：慢、推理、费力</text>
+<text x="70" y="1000" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">正见、正思惟的检视 ≈ 系统2</text>
+<text x="70" y="1040" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">自动加工 Automatic ≈ 习气现行</text>
+<text x="70" y="1070" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">控制加工 Controlled ≈ 四念处的观</text>
+</g>
+
+<g>
+<rect x="40" y="1155" width="820" height="320" rx="16" fill="#f3eef8" stroke="#d6cbe8" stroke-width="1.5"/>
+<text x="70" y="1200" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#5b3f8a">情绪与习惯 · Emotion and habit</text>
+<text x="70" y="1240" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">情绪快通路 Fast pathway：杏仁核先反应</text>
+<text x="70" y="1280" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">情绪慢通路 Slow pathway：皮层细想再反应</text>
+<text x="70" y="1320" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">习惯系统 Habit：基底神经节，越练越自动</text>
+<text x="70" y="1360" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">目标导向 Goal-directed：前额叶，有机会介入</text>
+<text x="70" y="1400" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Practice = let goal-directed intervene, not be carried by habit</text>
+</g>
+
+<g>
+<rect x="40" y="1495" width="820" height="300" rx="16" fill="#fdf0f0" stroke="#e8c3c3" stroke-width="1.5"/>
+<text x="70" y="1540" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#8a2f2f">不同之处 · Differences</text>
+<text x="70" y="1580" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">西方：多讲今生压抑，目标是意识到</text>
+<text x="70" y="1610" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">佛家：讲业力种子，目标是转识成智</text>
+<text x="70" y="1640" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Transform consciousness into wisdom, purify the store</text>
+<text x="70" y="1680" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">睡眠记忆巩固 ≈ 深睡时仍有非意识加工</text>
+<text x="70" y="1710" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">跨越生死：现代科学不讲，不要硬等同</text>
+</g>
+
+<text x="450" y="1850" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">对应帮你借用现代语言，不改变佛家的目标</text>
+<text x="450" y="1885" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Mapping borrows modern language, goal stays the same</text>
+<text x="450" y="1930" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#888888">2026-11-01 · 信仰专区 · 出自 buddhist.md 补充</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="2090" viewBox="0 0 900 2090">
+<rect width="900" height="2050" fill="#ffffff"/>
+<text x="450" y="70" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="bold" fill="#222222">佛学补充概念</text>
+<text x="450" y="108" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#666666">Buddhist Supplementary Concepts · 中英文对照</text>
+<text x="450" y="145" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">五蕴、八苦、三类苦、十二处与十八界</text>
+
+<g>
+<rect x="40" y="175" width="820" height="500" rx="16" fill="#eef7ee" stroke="#c3dfc3" stroke-width="1.5"/>
+<text x="70" y="220" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#2e6b2e">五蕴 Five Aggregates</text>
+<text x="70" y="255" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">人就是这五者聚合，没有固定我</text>
+<text x="70" y="295" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">色 Form — 物质身体</text>
+<text x="70" y="325" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">material body</text>
+<text x="70" y="365" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">受 Feeling — 感受</text>
+<text x="70" y="395" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">feeling</text>
+<text x="70" y="435" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">想 Perception — 认知、概念化</text>
+<text x="70" y="465" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">perception, conceptualization</text>
+<text x="70" y="505" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">行 Formations — 意志、造作</text>
+<text x="70" y="535" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">volition, mental formations</text>
+<text x="70" y="575" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">识 Consciousness — 了别、意识</text>
+<text x="70" y="605" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">awareness, consciousness</text>
+<text x="70" y="645" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">记住一句：念头不是我，情绪不是我，五蕴聚合不是我</text>
+</g>
+
+<g>
+<rect x="40" y="695" width="820" height="320" rx="16" fill="#eef4fb" stroke="#c3d6ea" stroke-width="1.5"/>
+<text x="70" y="740" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#2f5d8a">八苦 Eight Sufferings — 苦的展开，4+3+1</text>
+<text x="70" y="780" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">前四：生、老、病、死</text>
+<text x="70" y="810" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Birth, aging, sickness, death</text>
+<text x="70" y="850" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">中三：爱别离、怨憎会、求不得</text>
+<text x="70" y="880" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Separation, meeting disliked, not getting what wanted</text>
+<text x="70" y="920" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">后一：五蕴炽盛（忧悲恼）</text>
+<text x="70" y="950" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Burning aggregates, sorrow and distress</text>
+<text x="70" y="990" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">日常用：先给难受起个名字，就是观的开始</text>
+</g>
+
+<g>
+<rect x="40" y="1035" width="820" height="300" rx="16" fill="#fdf6ec" stroke="#e8dcc3" stroke-width="1.5"/>
+<text x="70" y="1080" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#7a5a1f">三类苦 Three Types of Suffering</text>
+<text x="70" y="1120" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">苦苦 — 苦上加苦</text>
+<text x="70" y="1150" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Suffering of suffering, pain upon pain</text>
+<text x="70" y="1190" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">坏苦 — 乐坏了就苦</text>
+<text x="70" y="1220" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Suffering of change, happiness turns to pain</text>
+<text x="70" y="1260" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">行苦 — 条件聚合本身就不安稳</text>
+<text x="70" y="1290" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Suffering of conditioned existence, unstable by nature</text>
+</g>
+
+<g>
+<rect x="40" y="1355" width="820" height="480" rx="16" fill="#f3eef8" stroke="#d6cbe8" stroke-width="1.5"/>
+<text x="70" y="1400" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="bold" fill="#5b3f8a">十二处与十八界 Sense Bases and Elements</text>
+<text x="70" y="1440" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">六根 Six senses：眼、耳、鼻、舌、身、意</text>
+<text x="70" y="1470" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Eye, ear, nose, tongue, body, mind</text>
+<text x="70" y="1510" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">六境 Six objects：色、声、香、味、触、法</text>
+<text x="70" y="1540" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Form, sound, smell, taste, touch, phenomena</text>
+<text x="70" y="1580" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">十二处 = 六根 + 六境</text>
+<text x="70" y="1610" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Twelve bases = six senses + six objects</text>
+<text x="70" y="1650" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">十八界 = 十二处 + 六识（见闻嗅尝觉知）</text>
+<text x="70" y="1680" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Eighteen elements = twelve bases + six consciousnesses</text>
+<text x="70" y="1710" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#333333">六识：见、闻、嗅、尝、觉、知</text>
+<text x="70" y="1740" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Seeing, hearing, smelling, tasting, feeling, knowing</text>
+<text x="70" y="1780" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">连回十二因缘：根 + 境 + 识相遇 = 触，触生受</text>
+<text x="70" y="1810" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">Sense + object + consciousness meet = contact, contact → feeling</text>
+</g>
+
+<text x="450" y="1890" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="20" fill="#444444">记住方法：先记名字，再记一个生活例子，不要先背定义</text>
+<text x="450" y="1925" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#666666">First names, then one life example, not definitions first</text>
+<text x="450" y="1970" text-anchor="middle" font-family="Kaiti SC, Noto Sans CJK SC, sans-serif" font-size="19" fill="#888888">出自 buddhist.md · 2026-11-01 · 信仰专区</text>
+</svg>
